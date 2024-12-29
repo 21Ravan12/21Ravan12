@@ -8,11 +8,11 @@ My name is Ravan, and I'm a Full Stack Developer. 🚀
 
 ## Technologies & Tools
 - 🖥 *Frontend*: HTML, CSS, JavaScript, React
-- ⚙ *Backend*: Node.js, ExpressJS, PHP, Flask, Socket.io
+- ⚙ *Backend*: Node.js, ExpressJS, PHP, Flask, Socket.io, Python, Java
 - 🗄 *Databases*: MongoDB, MySQL, SQLite
 - 🧳 *Query Languages*: SQL
 
 ## Let's Connect!
 Feel free to reach out if you'd like to collaborate on projects or just chat about tech.
 
-# Sa beyler
+# Sa
