@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello! 👋
+My name is Ravan, and I'm a Full Stack Developer. 🚀
 
-<!--
-**21Ravan12/21Ravan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 Currently learning: React, Redux, PHP, Android Develoopment
+- 💼 Currently working on: Freelance Projects
+- 📫 Reach me at: [asgarovravan@gmail.com](mailto:asgarovravan@gmail.com)
 
-Here are some ideas to get you started:
+## Technologies & Tools
+- 🖥 *Frontend*: HTML, CSS, JavaScript, React
+- ⚙ *Backend*: Node.js, ExpressJS, PHP, Flask, Socket.io
+- 🗄 *Databases*: MongoDB, MySQL, SQLite
+- 🧳 *Query Languages*: SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect!
+Feel free to reach out if you'd like to collaborate on projects or just chat about tech.
+
+# Sa beyler
