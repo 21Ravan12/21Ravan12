@@ -15,4 +15,3 @@ My name is Ravan, and I'm a Full Stack Developer. 🚀
 ## Let's Connect!
 Feel free to reach out if you'd like to collaborate on projects or just chat about tech.
 
-# Sa
