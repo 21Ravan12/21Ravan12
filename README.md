@@ -2,7 +2,7 @@
 My name is Ravan, and I'm a Full Stack Developer. 🚀
 
 ## About Me
-- 🌱 Currently learning: React, Redux, PHP, Android Develoopment
+- 🌱 Currently learning: React, Redux, PHP, Android Development
 - 💼 Currently working on: Freelance Projects
 - 📫 Reach me at: [asgarovravan@gmail.com](mailto:asgarovravan@gmail.com)
 
@@ -12,6 +12,10 @@ My name is Ravan, and I'm a Full Stack Developer. 🚀
 - 🗄 *Databases*: MongoDB, MySQL, SQLite
 - 🧳 *Query Languages*: SQL
 
+## 📂 My GitHub Stats
+- 🔓 Public Repos: 9  
+- 🔒 Private Repos: 2  
+- 🌟 Total Repositories: 11 
+
 ## Let's Connect!
 Feel free to reach out if you'd like to collaborate on projects or just chat about tech.
-
