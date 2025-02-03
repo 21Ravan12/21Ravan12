@@ -2,7 +2,7 @@
 My name is Ravan, and I'm a Full Stack Developer. 🚀  
 
 ## About Me  
-- 💼 *Currently working on:* New Projects (Personal)  
+- 💼 *Currently working on:* New Projects (Freelance & Personal)  
 - 📫 *Reach me at:* [asgarovravan@gmail.com](mailto:asgarovravan@gmail.com)  
 
 ## Technologies & Tools  
@@ -14,6 +14,8 @@ My name is Ravan, and I'm a Full Stack Developer. 🚀
 
 ## 📂 My GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=21Ravan12&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=21Ravan12&layout=compact&theme=dark)  
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=21Ravan12&repo=your-repo-name&theme=dark)  
 
 ## Let's Connect!  
 Feel free to reach out if you'd like to collaborate on projects or just chat about tech.
