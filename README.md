@@ -13,7 +13,7 @@ My name is Ravan, and I'm a Full Stack Developer. 🚀
 - 🧳 *Query Languages*: SQL  
 
 ## 📂 My GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=21Ravan12&show_icons=true&theme=dark)  
 
 ## Let's Connect!  
 Feel free to reach out if you'd like to collaborate on projects or just chat about tech.
