@@ -18,8 +18,8 @@ My name is Ravan, and I'm a Full Stack Developer. 🚀
 
 
 ## GitHub Repositories  
-- **Public Repos**: 9  
-- **Private Repos**: 3  
+- **Public Repos**: 10  
+- **Private Repos**: 2  
 
 ## Let's Connect!  
 Feel free to reach out if you'd like to collaborate on projects or just chat about tech.
