@@ -9,7 +9,7 @@ My name is Ravan, and I'm a Full Stack Developer. 🚀
 - 🖥 *Frontend*: HTML, CSS, JavaScript, React  
 - ⚙ *Backend*: Node.js, ExpressJS, Socket.io, PHP, Flask, Django  
 - 🚀 *Java Backend*: Java, Spring Boot  
-- 🗄 *Databases*: MongoDB, MySQL, SQLite  
+- 🗄 *Databases*: PostgreSQL ,MongoDB, MySQL, SQLite  
 - 🧳 *Query Languages*: SQL  
 
 ## 📂 My GitHub Stats  
