@@ -12,31 +12,26 @@ I'm Ravan, a Full Stack Developer. 🚀
 ### Technologies & Tools
 
 #### Frontend
-- HTML
-- CSS
-- JavaScript
-- React
-- Vue.js
-- Redux
+- HTML, CSS, JavaScript (Promotion-website, Student-servant-system-v1, Chat-app-v1, Chat-app-v2, Checkers(Private), Online-checkers-v1)
+- React, Redux (Login-Signup-React)
+- Vue.js (Finance-manager(Private))
 
 #### Backend
-- Node.js
-- Express.js
-- PHP
-- Python
-- Flask
-- Django
+- Node.js, Express.js (Finance-manager(Private), Chat-app-v1, Chat-app-v2, Api-Gateway-incomplete(Private), E-commerse-Api)
+- Socket.io (Chat-app-v1, Chat-app-v2, Online-checkers-v1)
+- Flask (Student-servant-system-v1, Promotion-website)
+- Django (Student-servant-system-v2(Private))
 
 #### Java Backend
-- Java
-- Spring Boot
+- Java (text_based_rpg, 2d_game-incomplete)
+- Spring Boot (Library-api)
 
 #### Databases
-- MongoDB
-- MySQL
-- PostgreSQL
-- SQLite
-- Redis(cache)
+- MongoDB (Chat-app-v1, Chat-app-v2)
+- MySQL (Library-api, E-commerse-Api, Login-Signup-React)
+- PostgreSQL (Finance-manager(Private), Student-servant-system-v2(Private)) 
+- SQLite (Promotion-website, Student-servant-system-v1)
+- Redis(cache) (Api-Gateway-incomplete(Private))
 
 #### Query Languages
 - SQL
