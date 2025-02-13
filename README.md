@@ -33,8 +33,6 @@ I'm Ravan, a Full Stack Developer. 🚀
 - **SQLite**: Promotion-website, Student-servant-system-v1
 - **Redis (cache)**: Api-Gateway-incomplete(Private)
 
-#### Query Languages
-- **SQL**
 
 ### My GitHub Stats
 
