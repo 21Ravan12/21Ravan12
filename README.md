@@ -23,6 +23,7 @@ I'm Ravan, a Full Stack Developer. 🚀
 - Node.js
 - Express.js
 - PHP
+- Python
 - Flask
 - Django
 
@@ -35,6 +36,7 @@ I'm Ravan, a Full Stack Developer. 🚀
 - MySQL
 - PostgreSQL
 - SQLite
+- Redis(cache)
 
 #### Query Languages
 - SQL
