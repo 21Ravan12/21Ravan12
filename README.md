@@ -38,6 +38,10 @@ I'm Ravan, a Full Stack Developer. 🚀
 
 ![Ravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=21Ravan12&show_icons=true&theme=radical)
 
+### Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21Ravan12&layout=compact&theme=radical)
+
 ### GitHub Repositories
 
 - Public Repos: 11
