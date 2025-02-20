@@ -14,10 +14,10 @@ I'm Ravan, a Full Stack Developer. 🚀
 #### Frontend
 - **HTML, CSS, JavaScript**: Chat-app-v2, Checkers(Private), Online-checkers-v1, Promotion-website, Student-servant-system-v1, Chat-app-v1
 - **React, Redux**: Login-Signup-React
-- **Vue.js**: Finance-manager(Private)
+- **Vue.js**: Finance-manager
 
 #### Backend
-- **Node.js, Express.js**: E-commerse-Api, Finance-manager(Private), Chat-app-v2, Chat-app-v1, Api-Gateway-incomplete(Private)
+- **Node.js, Express.js**: E-commerse-Api, Finance-manager, Chat-app-v2, Chat-app-v1, Api-Gateway-incomplete(Private)
 - **Socket.io**: Chat-app-v2, Online-checkers-v1, Chat-app-v1 
 - **Flask**: Student-servant-system-v1, Promotion-website
 - **Django**: Student-servant-system-v2(Private)
@@ -29,7 +29,7 @@ I'm Ravan, a Full Stack Developer. 🚀
 #### Databases
 - **MongoDB**: Chat-app-v2, Chat-app-v1
 - **MySQL**: Library-api, E-commerse-Api, Login-Signup-React
-- **PostgreSQL**: Finance-manager(Private), Student-servant-system-v2(Private)
+- **PostgreSQL**: Finance-manager, Student-servant-system-v2(Private)
 - **SQLite**: Promotion-website, Student-servant-system-v1
 - **Redis (cache)**: Api-Gateway-incomplete(Private)
 
@@ -44,8 +44,8 @@ I'm Ravan, a Full Stack Developer. 🚀
 
 ### GitHub Repositories
 
-- Public Repos: 11
-- Private Repos: 4
+- Public Repos: 12
+- Private Repos: 3
 
 ### Let's Connect!
 
