@@ -31,7 +31,7 @@ I'm Ravan, a Full Stack Developer. 🚀
 - **MySQL**: Library-api, E-commerse-Api, Login-Signup-React
 - **PostgreSQL**: Finance-manager, Student-servant-system-v2(Private)
 - **SQLite**: Promotion-website, Student-servant-system-v1
-- **Redis (cache)**: Api-Gateway-incomplete(Private)
+
 
 
 ### My GitHub Stats
