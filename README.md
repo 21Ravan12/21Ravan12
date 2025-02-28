@@ -13,11 +13,11 @@ I'm Ravan, a Full Stack Developer. 🚀
 
 #### Frontend
 - **HTML, CSS, JavaScript**: Online-checkers-v2, Chat-app-v2, Checkers(Private), Online-checkers-v1, Promotion-website, Student-servant-system-v1, Chat-app-v1
-- **React, Redux**: Login-Signup-React
+- **React, Redux**: Login-Signup
 - **Vue.js**: Finance-manager
 
 #### Backend
-- **Node.js, Express.js**: E-commerse-Api, Finance-manager, Chat-app-v2, Chat-app-v1, Api-Gateway-incomplete(Private)
+- **Node.js, Express.js**: E-commerse-Api, Finance-manager, Chat-app-v2, Chat-app-v1, Api-Gateway-incomplete(Private), Login-Signup
 - **Socket.io**: Online-checkers-v2, Chat-app-v2, Online-checkers-v1, Chat-app-v1 
 - **Flask**: Student-servant-system-v1, Promotion-website
 - **Django**: Student-servant-system-v2(Private)
@@ -28,7 +28,7 @@ I'm Ravan, a Full Stack Developer. 🚀
 
 #### Databases
 - **MongoDB**: Chat-app-v2, Chat-app-v1
-- **MySQL**: Library-api, E-commerse-Api, Login-Signup-React
+- **MySQL**: Library-api, E-commerse-Api, Login-Signup
 - **PostgreSQL**: Online-checkers-v2, Finance-manager, Student-servant-system-v2(Private)
 - **SQLite**: Promotion-website, Student-servant-system-v1
 
