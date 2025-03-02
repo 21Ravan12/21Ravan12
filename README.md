@@ -50,5 +50,3 @@ I'm Ravan, a Full Stack Developer. 🚀
 ### Let's Connect!
 
 Feel free to reach out if you'd like to collaborate on projects or just chat about tech.
-
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourprofile)
