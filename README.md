@@ -13,7 +13,7 @@ I'm Ravan, a Full Stack Developer. 🚀
 
 #### Frontend
 - **HTML, CSS, JavaScript**: Online-checkers-v2, Chat-app-v2, Checkers(Private), Online-checkers-v1, Promotion-website, Student-servant-system-v1, Chat-app-v1
-- **TypeScript, Next.js**: Freelance-platform-v1
+- **TypeScript, Next.js, TailwindCSS**: Freelance-platform-v1
 - **React, Redux**: Login-Signup
 - **Vue.js**: Finance-manager
 
