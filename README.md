@@ -53,6 +53,3 @@ I'm Ravan, a passionate Full Stack Developer with a love for building scalable a
 Feel free to reach out if you'd like to collaborate on projects or just chat about tech.
 
 - 📧 **Email:** [asgarovravan@gmail.com](mailto:asgarovravan@gmail.com)
-- 🔗 **LinkedIn:** [Ravan Asgarov](https://linkedin.com/in/ravan-asgarov)
-- 🐦 **Twitter:** [@RavanAsgarov](https://twitter.com/RavanAsgarov)
-- 🌐 **Portfolio:** [Ravan's Portfolio](https://yourportfolio.com)
