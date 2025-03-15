@@ -9,7 +9,6 @@ I'm Ravan, a passionate Full Stack Developer with a love for building scalable a
 - 💼 **Currently Working On:** New personal projects to enhance my skills.
 - 🌱 **Learning:** Advanced concepts in Microservices and DevOps.
 - 📫 **Contact:** [asgarovravan@gmail.com](mailto:asgarovravan@gmail.com)
-- 🔗 **Portfolio:** [Ravan's Portfolio](https://yourportfolio.com)
 
 ### Technologies & Tools
 
