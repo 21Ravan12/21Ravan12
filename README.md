@@ -57,10 +57,10 @@ I'm a **Full Stack Developer** passionate about building efficient, scalable app
 
 | Project | Technologies | Description |  
 |---------|--------------|-------------|  
-| **[Freelance Platform](https://github.com/21Ravan12/Freelance-platform-v1)** | Next.js, Tailwind, Node.js, MongoDB | Full-stack freelance marketplace with job posting system |
-| **[Online Checkers v2](https://github.com/21Ravan12/Online-checkers-v2)** | Spring Boot, Socket.io, PostgreSQL | Real-time multiplayer game with Java backend |
-| **[Chat App v2](https://github.com/21Ravan12/Chat-app-v2)** | React, Node.js, Socket.io, MongoDB | Realtime messaging platform with auth system |
-| **[Finance Manager](https://github.com/21Ravan12/Finance-manager-v1)** | Vue.js, Node.js, PostgreSQL | Budget tracking application with analytics |
+| **[Freelance Platform](https://github.com/21Ravan12/Freelance_platform-v1)** | Next.js, Tailwind, Node.js, MongoDB | Full-stack freelance marketplace with job posting system |
+| **[Online Checkers v2](https://github.com/21Ravan12/Online_checkers-v2)** | Spring Boot, Socket.io, PostgreSQL | Real-time multiplayer game with Java backend |
+| **[Chat App v2](https://github.com/21Ravan12/Chat_app-v2)** | React, Node.js, Socket.io, MongoDB | Realtime messaging platform with auth system |
+| **[Finance Manager](https://github.com/21Ravan12/Finance_manager-v1)** | Vue.js, Node.js, PostgreSQL | Budget tracking application with analytics |
 | **[E-commerce API](https://github.com/21Ravan12/E-commerse-Api)** | Node.js, Express, MySQL | RESTful API for online store functionality |
 
 *(Private Projects: Student System v2 (Django), API Gateway, Checkers Game)*
