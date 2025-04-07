@@ -62,7 +62,6 @@ I'm a **Full Stack Developer** passionate about building efficient, scalable app
 | **[Chat App v2](https://github.com/21Ravan12/Chat-app-v2)** | React, Node.js, Socket.io, MongoDB | Realtime messaging platform with auth system |
 | **[Finance Manager](https://github.com/21Ravan12/Finance-manager)** | Vue.js, Node.js, PostgreSQL | Budget tracking application with analytics |
 | **[E-commerce API](https://github.com/21Ravan12/E-commerse-Api)** | Node.js, Express, MySQL | RESTful API for online store functionality |
-| **[Student System v1](https://github.com/21Ravan12/Student-servant-system-v1)** | Flask, SQLite | School management system with admin dashboard |
 
 *(Private Projects: Student System v2 (Django), API Gateway, Checkers Game)*
 
