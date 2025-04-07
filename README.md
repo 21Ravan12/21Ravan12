@@ -14,7 +14,7 @@ I'm a **Full Stack Developer** passionate about building efficient, scalable app
 
 - 🔭 **Currently Working On:** Enhancing personal projects with microservices architecture
 - 🌱 **Learning:** Advanced Microservices, Cloud Architecture (AWS/GCP), DevOps practices
-- 📫 **Contact:** [asgarovravan@gmail.com](mailto:asgarovravan@gmail.com) | [LinkedIn](#) *(add link)*
+- 📫 **Contact:** [asgarovravan@gmail.com](mailto:asgarovravan@gmail.com)
 
 ---
 
