@@ -74,7 +74,7 @@ I'm a **Full Stack Developer** passionate about building efficient, scalable app
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21Ravan12&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
-- **Public Repositories:** 14
+- **Public Repositories:** 15
 - **Private Projects:** 3
 - **Contributions:** Continuous development across full-stack projects
 
