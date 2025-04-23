@@ -114,9 +114,9 @@ I'm a **solution-driven full-stack developer** specializing in building scalable
   
 | Service | Scope | Starting At |
 |---------|-------|------------|
-| **Web Development** | Full-stack applications | $50/hr |
-| **System Design** | Scalable architectures | $3k/project |
-| **Code Review** | Performance optimization | $150/session |
+| **Web Development** | Full-stack applications | $10/hr |
+| **System Design** | Scalable architectures | $250/project |
+| **Code Review** | Performance optimization | $50/session |
 
 </div>
 
