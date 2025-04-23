@@ -94,15 +94,14 @@ I'm a **solution-driven full-stack developer** specializing in building scalable
 ---
 
 ## **📊 GitHub Metrics**
-<div align="center">
+<div align="center" >
   
 <!-- Advanced stats cards -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=21Ravan12&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21Ravan12&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- 3D contributions graph -->
-<img src="https://github-profile-3d.vercel.app/21Ravan12" width="800" alt="3D Contributions">
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=21Ravan12&theme=radical" />
 
 </div>
 
