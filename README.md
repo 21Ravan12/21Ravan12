@@ -1,7 +1,8 @@
 ---
 
-# 💻 **Ravan Asgarov**  
-### **Full Stack Developer | Scalable Web Solutions**  
+💻 **Ravan Asgarov**  
+Full-Stack Developer → I build **scalable web apps** for startups & SMEs  
+Open to freelance projects | Let’s collab! ✨  
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=5D3FD3&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Passionate+About+Clean+Code;Full-Stack+Specialist;Microservices+Enthusiast" alt="Typing Animation" />
