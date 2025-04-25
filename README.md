@@ -3,28 +3,22 @@
   
   <h1> 
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
-    Full-Stack Developer | Cloud Architect
+    Full-Stack Developer | Scalable Web Solutions
   </h1>
   
-  <!-- Animated tech stack -->
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7E3AF2&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+Node.js;Spring+Boot+%7C+AWS+%7C+Kubernetes;TypeScript+%7C+Python+%7C+Microservices;Turning+Concepts+Into+Production+Ready+Systems" alt="Tech Stack Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7E3AF2&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;Passionate+About+Clean+Code;Full-Stack+Specialist;Microservices+Enthusiast" alt="Typing Animation" />
   </div>
   
-  <!-- Social badges with cool hover effects -->
   <div>
-    <a href="https://yourportfolio.com">
-      <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    </a>
-    <a href="https://linkedin.com/in/yourprofile">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
     <a href="mailto:asgarovravan@gmail.com">
-      <img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://github.com/21Ravan12">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
   </div>
   
-  <!-- Visitor counter -->
   <img src="https://komarev.com/ghpvc/?username=21Ravan12&label=Profile+Views&color=7E3AF2&style=flat" alt="Profile views" />
 </div>
 
@@ -35,16 +29,11 @@
   <img src="https://github.com/21Ravan12/21Ravan12/blob/main/assets/coding.gif?raw=true" width="300" align="right" alt="Coding GIF">
 </div>
 
-I'm a **solution-driven full-stack developer** specializing in building scalable web architectures. My expertise bridges:
+I'm a **Full Stack Developer** passionate about building efficient, scalable applications across the entire stack. I thrive on solving complex problems and continuously expanding my technical expertise.
 
-- 🚀 **High-performance applications** (0 → 1M users)
-- ☁️ **Cloud-native development** (AWS/GCP)
-- 🔗 **Distributed systems** & microservices
-
-**Current Obsessions:**
-- Building AI-enhanced developer tools
-- Optimizing container orchestration
-- Contributing to open-source ecosystems
+- 🔭 **Currently Working On:** Enhancing personal projects with microservices architecture
+- 🌱 **Learning:** Advanced Microservices, Cloud Architecture (AWS/GCP), DevOps practices
+- 📫 **Contact:** [asgarovravan@gmail.com](mailto:asgarovravan@gmail.com)
 
 ---
 
@@ -52,98 +41,81 @@ I'm a **solution-driven full-stack developer** specializing in building scalable
 
 ### **Frontend Development**
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 </div>
 
 ### **Backend Development**
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
 </div>
 
-### **DevOps & Cloud**
+### **Databases & DevOps**
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
 ---
 
 ## **🚀 Featured Projects**
 
-<!-- Project cards with GitHub links -->
 <div align="center">
   
 | Project | Technologies | Highlights |
 |---------|--------------|------------|
-| **[Freelance Platform](https://github.com/21Ravan12/Freelance-platform-v1)** | Next.js, Node.js, MongoDB | ► 500+ users ► 40% faster onboarding ► 5% commission model |
-| **[Checkers Game](https://github.com/21Ravan12/Online-checkers-v2)** | Spring Boot, Socket.io | ► 2K+ players ► <100ms latency ► ELO ranking |
-| **[Finance Dashboard](https://github.com/21Ravan12/Finance_manager-v1)** | Vue.js, D3.js | ► 65% faster analysis ► Plaid API integration |
+| **[Freelance Platform](https://github.com/21Ravan12/Freelance-platform-v1)** | Next.js, Node.js, MongoDB | Full-stack freelance marketplace |
+| **[Online Checkers v2](https://github.com/21Ravan12/Online-checkers-v2)** | Spring Boot, Socket.io | Real-time multiplayer game |
+| **[Chat App v2](https://github.com/21Ravan12/Chat-app-v2)** | React, Node.js, Socket.io | Realtime messaging platform |
+| **[Finance Manager](https://github.com/21Ravan12/Finance_manager-v1)** | Vue.js, Node.js | Budget tracking application |
+| **[E-commerce API](https://github.com/21Ravan12/E-commerse-Api)** | Node.js, Express | RESTful API for online store |
 
 </div>
 
 ---
 
 ## **📊 GitHub Metrics**
-<div align="center" >
-  
-<!-- Advanced stats cards -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=21Ravan12&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21Ravan12&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=21Ravan12&theme=radical" />
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=21Ravan12&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21Ravan12&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
 
-## **💼 Professional Services**
-
-<!-- Pricing cards -->
-<div align="center">
-  
-| Service | Scope | Starting At |
-|---------|-------|------------|
-| **Web Development** | Full-stack applications | $10/hr |
-| **System Design** | Scalable architectures | $250/project |
-| **Code Review** | Performance optimization | $50/session |
-
-</div>
-
-**Why Choose Me?**
-✅ 48-hour response guarantee  
-✅ Weekly progress demos  
-✅ 30-day post-launch support  
+## **🎯 2025 Goals**
+- Contribute to **open-source projects**
+- Earn **AWS Certified Developer** certification
+- Build **microservices-based SaaS platform**
+- Master **container orchestration**
 
 ---
 
 ## **📬 Let's Connect**
 <div align="center">
-  
-<!-- Animated contact buttons -->
-<a href="mailto:asgarovravan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://calendly.com/yourlink">
-  <img src="https://img.shields.io/badge/Book_Call-006BFF?style=for-the-badge" alt="Calendly">
-</a>
-<a href="https://t.me/yourhandle">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram">
-</a>
-
+  <a href="mailto:asgarovravan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/21Ravan12">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontSize=40" alt="Footer" />
