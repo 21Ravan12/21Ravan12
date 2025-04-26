@@ -20,6 +20,9 @@
     <a href="https://www.linkedin.com/in/rəvan-əsgərov-681548352">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
+    <a href="https://x.com/Rvnsgrov">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
+    </a>
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=21Ravan12&label=Profile+Views&color=7E3AF2&style=flat" alt="Profile views" />
@@ -120,6 +123,9 @@ I'm a **Full Stack Developer** passionate about building efficient, scalable app
   </a>
   <a href="https://www.linkedin.com/in/rəvan-əsgərov-681548352">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/Rvnsgrov">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
   </a>
 </div>
 
