@@ -120,7 +120,6 @@ I'm a **Full Stack Developer** passionate about building efficient, scalable app
   </a>
   <a href="https://www.linkedin.com/in/rəvan-əsgərov-681548352">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
   </a>
 </div>
 
