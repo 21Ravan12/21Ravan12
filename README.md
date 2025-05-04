@@ -88,7 +88,6 @@ I'm a **Full Stack Developer** passionate about building efficient, scalable app
 | **[Online Checkers v2](https://github.com/21Ravan12/Online-checkers-v2)** | Spring Boot, Socket.io | Real-time multiplayer game |
 | **[Chat App v2](https://github.com/21Ravan12/Chat-app-v2)** | React, Node.js, Socket.io | Realtime messaging platform |
 | **[Finance Manager](https://github.com/21Ravan12/Finance_manager-v1)** | Vue.js, Node.js | Budget tracking application |
-| **[E-commerce API](https://github.com/21Ravan12/E-commerse-Api)** | Node.js, Express | RESTful API for online store |
 
 </div>
 
