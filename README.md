@@ -17,9 +17,10 @@
     <a href="https://github.com/21Ravan12">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
-    <a href="https://www.linkedin.com/in/rəvan-əsgərov-681548352">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <a href="https://ko-fi.com/rvn284894">
+      <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
     </a>
+
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=21Ravan12&label=Profile+Views&color=7E3AF2&style=flat" alt="Profile views" />
@@ -117,8 +118,8 @@ I'm a **Full Stack Developer** passionate about building efficient, scalable app
   <a href="https://github.com/21Ravan12">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/rəvan-əsgərov-681548352">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://ko-fi.com/rvn284894">
+    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
   </a>
 </div>
 
