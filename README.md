@@ -17,9 +17,6 @@
     <a href="https://github.com/21Ravan12">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
-    <a href="https://ko-fi.com/rvn284894/tiers" title="Explore my ready-to-use solutions">
-      <img src="https://img.shields.io/badge/Production_Ready-%23FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Solutions">
-    </a>
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=21Ravan12&label=Profile+Views&color=7E3AF2&style=flat" alt="Profile views" />
