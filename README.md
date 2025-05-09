@@ -83,12 +83,12 @@ I'm a **Full Stack Developer** passionate about building efficient, scalable app
 
 <div align="center">
   
-| Project | Technologies | Highlights | Implementation |
-|---------|--------------|------------|----------------|
-| **[E-Commerce API](https://github.com/21Ravan12/E-commerse-Api)** | Node.js, Stripe | Complete backend solution | [Production Version](https://ko-fi.com/rvn284894/tiers) |
-| **[Freelance Platform](https://github.com/21Ravan12/Freelance-platform-v1)** | Next.js, MongoDB | Full-stack marketplace | Custom builds available |
-| **[Online Checkers v2](https://github.com/21Ravan12/Online-checkers-v2)** | Spring Boot | Real-time multiplayer game | - |
-| **[Finance Manager](https://github.com/21Ravan12/Finance_manager-v1)** | Vue.js, Node.js | Budget tracking app | [Extended Version](https://ko-fi.com/rvn284894/tiers) |
+| Project | Technologies | Highlights |
+|---------|--------------|------------|
+| **[E-Commerce API](https://github.com/21Ravan12/E-commerse-Api)** | Node.js, Stripe | Complete backend solution |
+| **[Freelance Platform](https://github.com/21Ravan12/Freelance-platform-v1)** | Next.js, MongoDB | Full-stack marketplace |
+| **[Online Checkers v2](https://github.com/21Ravan12/Online-checkers-v2)** | Spring Boot | Real-time multiplayer game |
+| **[Finance Manager](https://github.com/21Ravan12/Finance_manager-v1)** | Vue.js, Node.js | Budget tracking app |
 
 </div>
 
@@ -117,9 +117,6 @@ I'm a **Full Stack Developer** passionate about building efficient, scalable app
   </a>
   <a href="https://github.com/21Ravan12">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://ko-fi.com/rvn284894/tiers" title="Explore my production-ready solutions">
-    <img src="https://img.shields.io/badge/Ready--To--Deploy-%23FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Solutions">
   </a>
 </div>
 
