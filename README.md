@@ -17,10 +17,9 @@
     <a href="https://github.com/21Ravan12">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
-    <a href="https://ko-fi.com/rvn284894">
-      <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
+    <a href="https://ko-fi.com/rvn284894/tiers" title="Explore my ready-to-use solutions">
+      <img src="https://img.shields.io/badge/Production_Ready-%23FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Solutions">
     </a>
-
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=21Ravan12&label=Profile+Views&color=7E3AF2&style=flat" alt="Profile views" />
@@ -37,6 +36,7 @@ I'm a **Full Stack Developer** passionate about building efficient, scalable app
 
 - 🔭 **Currently Working On:** Enhancing personal projects with microservices architecture
 - 🌱 **Learning:** Advanced Microservices, Cloud Architecture (AWS/GCP), DevOps practices
+- 💼 **Available Solutions:** [Optimized implementations](https://ko-fi.com/rvn284894/tiers) of my open-source projects
 - 📫 **Contact:** [asgarovravan@gmail.com](mailto:asgarovravan@gmail.com)
 
 ---
@@ -83,12 +83,12 @@ I'm a **Full Stack Developer** passionate about building efficient, scalable app
 
 <div align="center">
   
-| Project | Technologies | Highlights |
-|---------|--------------|------------|
-| **[Freelance Platform](https://github.com/21Ravan12/Freelance-platform-v1)** | Next.js, Node.js, MongoDB | Full-stack freelance marketplace |
-| **[Online Checkers v2](https://github.com/21Ravan12/Online-checkers-v2)** | Spring Boot, Socket.io | Real-time multiplayer game |
-| **[Chat App v2](https://github.com/21Ravan12/Chat-app-v2)** | React, Node.js, Socket.io | Realtime messaging platform |
-| **[Finance Manager](https://github.com/21Ravan12/Finance_manager-v1)** | Vue.js, Node.js | Budget tracking application |
+| Project | Technologies | Highlights | Implementation |
+|---------|--------------|------------|----------------|
+| **[E-Commerce API](https://github.com/21Ravan12/E-commerse-Api)** | Node.js, Stripe | Complete backend solution | [Production Version](https://ko-fi.com/rvn284894/tiers) |
+| **[Freelance Platform](https://github.com/21Ravan12/Freelance-platform-v1)** | Next.js, MongoDB | Full-stack marketplace | Custom builds available |
+| **[Online Checkers v2](https://github.com/21Ravan12/Online-checkers-v2)** | Spring Boot | Real-time multiplayer game | - |
+| **[Finance Manager](https://github.com/21Ravan12/Finance_manager-v1)** | Vue.js, Node.js | Budget tracking app | [Extended Version](https://ko-fi.com/rvn284894/tiers) |
 
 </div>
 
@@ -118,8 +118,8 @@ I'm a **Full Stack Developer** passionate about building efficient, scalable app
   <a href="https://github.com/21Ravan12">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://ko-fi.com/rvn284894">
-    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
+  <a href="https://ko-fi.com/rvn284894/tiers" title="Explore my production-ready solutions">
+    <img src="https://img.shields.io/badge/Ready--To--Deploy-%23FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Solutions">
   </a>
 </div>
 
