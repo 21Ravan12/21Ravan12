@@ -16,10 +16,12 @@
     </a>
     <a href="https://github.com/21Ravan12">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <a href="https://ko-fi.com/rvn284894" target="_blank">
+     <img src="https://img.shields.io/badge/My%20Optimized%20Products-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Optimized Products on Ko-fi">
     </a>
+</a>
+
   </div>
-  
-  <img src="https://komarev.com/ghpvc/?username=21Ravan12&label=Profile+Views&color=7E3AF2&style=flat" alt="Profile views" />
 </div>
 
 ---
@@ -33,7 +35,6 @@ I'm a **Full Stack Developer** passionate about building efficient, scalable app
 
 - 🔭 **Currently Working On:** Enhancing personal projects with microservices architecture
 - 🌱 **Learning:** Advanced Microservices, Cloud Architecture (AWS/GCP), DevOps practices
-- 💼 **Available Solutions:** [Optimized solutions](https://ko-fi.com/rvn284894/tiers) of my open-source projects
 - 📫 **Contact:** [asgarovravan@gmail.com](mailto:asgarovravan@gmail.com)
 
 ---
