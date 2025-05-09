@@ -33,7 +33,7 @@ I'm a **Full Stack Developer** passionate about building efficient, scalable app
 
 - 🔭 **Currently Working On:** Enhancing personal projects with microservices architecture
 - 🌱 **Learning:** Advanced Microservices, Cloud Architecture (AWS/GCP), DevOps practices
-- 💼 **Available Solutions:** [Optimized implementations](https://ko-fi.com/rvn284894/tiers) of my open-source projects
+- 💼 **Available Solutions:** [Optimized solutions](https://ko-fi.com/rvn284894/tiers) of my open-source projects
 - 📫 **Contact:** [asgarovravan@gmail.com](mailto:asgarovravan@gmail.com)
 
 ---
