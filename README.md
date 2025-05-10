@@ -17,6 +17,9 @@
     <a href="https://github.com/21Ravan12">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
+    <a href="https://ko-fi.com/rvn284894" target="_blank">
+      <img src="https://img.shields.io/badge/My%20Optimized%20Products-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Optimized Products on Ko-fi">
+    </a>
   </div>
 </div>
 
