@@ -113,5 +113,5 @@ I'm a **Full Stack Developer** passionate about building efficient, scalable app
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontSize=40" alt="Footer" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontSize=40" alt="Footer" />
 </div>
