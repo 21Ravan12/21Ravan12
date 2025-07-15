@@ -14,10 +14,6 @@
     <a href="mailto:asgarovravan@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
-    <a href="https://ko-fi.com/rvn284894" target="_blank">
-      <img src="https://img.shields.io/badge/%20Products-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Optimized Products on Ko-fi">
-    </a>
-
   </div>
 </div>
 
