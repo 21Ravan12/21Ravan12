@@ -24,11 +24,18 @@
   <img src="https://github.com/21Ravan12/21Ravan12/blob/main/assets/coding.gif?raw=true" width="300" align="right" alt="Coding GIF">
 </div>
 
-I'm a **Full Stack Developer** passionate about building efficient, scalable applications across the entire stack. I thrive on solving complex problems and continuously expanding my technical expertise.
+I’m a **Full-Stack Developer** with a pragmatic approach: I focus on writing code that is **maintainable, scalable, and logical**. Engineering for me is not just building features—it’s about **solving real-world problems** efficiently.  
 
-- 🔭 **Currently Working On:** Enhancing personal projects with microservices architecture
-- 🌱 **Learning:** Advanced Microservices, Cloud Architecture (AWS/GCP), DevOps practices
-- 📫 **Contact:** [asgarovravan@gmail.com](mailto:asgarovravan@gmail.com)
+I enjoy:
+- Breaking down complex problems into smaller, testable solutions
+- Continuously refining architecture and workflow
+- Exploring new technologies to see how they can improve system design  
+
+- 🔭 **Currently Working On:** Scaling personal projects with microservices and cloud-native design  
+- 🌱 **Learning:** Advanced Microservices, Cloud Architecture (AWS/GCP), DevOps practices  
+- 📫 **Contact:** [asgarovravan@gmail.com](mailto:asgarovravan@gmail.com)  
+
+> “I write code not to show off, but to make things **work reliably, cleanly, and elegantly**.”
 
 ---
 
@@ -79,10 +86,10 @@ I'm a **Full Stack Developer** passionate about building efficient, scalable app
 ---
 
 ## **🎯 2025 Goals**
-- Contribute to **open-source projects**
-- Earn **AWS Certified Developer** certification
-- Build **microservices-based SaaS platform**
-- Master **container orchestration**
+- Contribute to **open-source projects** to share real-world solutions  
+- Earn **AWS Certified Developer** certification and strengthen cloud skills  
+- Build a **microservices-based SaaS platform** with modular design  
+- Master **container orchestration** and deploy scalable systems  
 
 ---
 
