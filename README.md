@@ -14,7 +14,7 @@
   <a href="mailto:asgarovravan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/ravan-asgarov/">
+  <a href="https://www.linkedin.com/in/asg-rvn-220820380/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://portfolio-six-ebon-36.vercel.app/">
@@ -106,7 +106,7 @@ I'm a **Full Stack Engineer** with a methodical approach to building robust, sca
   <a href="mailto:asgarovravan@gmail.com">
     <img src="https://img.shields.io/badge/Technical_Inquiry-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email for Technical Discussions">
   </a>
-  <a href="https://www.linkedin.com/in/ravan-asgarov/">
+  <a href="https://www.linkedin.com/in/asg-rvn-220820380/">
     <img src="https://img.shields.io/badge/Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
   </a>
   <a href="https://github.com/21Ravan12">
