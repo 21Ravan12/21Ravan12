@@ -69,6 +69,13 @@ I'm a **Full Stack Engineer** with a methodical approach to building robust, sca
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" title="Real-time Communication">
 </div>
 
+### **Security & Infrastructure**
+<div align="center">
+  <img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white" title="Cryptography & TLS/SSL">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" title="JSON Web Tokens">
+  <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white" title="OAuth2 Authorization">
+</div>
+
 ### **Data & Infrastructure**
 <div align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" title="Document Database Design">
@@ -77,6 +84,7 @@ I'm a **Full Stack Engineer** with a methodical approach to building robust, sca
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" title="Embedded Database Solutions">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Containerization">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" title="Cloud Deployment & Hosting">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" title="GitHub CI/CD Pipelines">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control Systems">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" title="Caching Strategies">
 </div>
