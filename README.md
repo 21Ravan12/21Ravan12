@@ -20,7 +20,7 @@
   <a href="https://reddit.com/user/FitCarpenter7054/">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
   </a>
-  <a href="https://portfolio-omega-five-50.vercel.app/">
+  <a href="https://portfolio-gamma-neon-92.vercel.app//">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website">
   </a>
 </div>
