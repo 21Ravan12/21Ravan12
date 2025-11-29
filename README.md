@@ -71,23 +71,23 @@ I'm an 18-year-old **Full-Stack Developer** passionate about building modern web
 
 ## 💼 **Featured Projects**
 
-### **[Freelance Platform](https://github.com/21Ravan12/Freelance-platform-v1)**
-Full-stack platform connecting freelancers with clients
-- **Tech:** React, Node.js, PostgreSQL, JWT Auth
-- **Features:** Project bidding, real-time messaging, payment system
-- **Status:** 🟢 Live Demo Available
-
-### **[E-commerce API](https://github.com/21Ravan12/e-commerce-api-role-based)**
-Role-based e-commerce backend with complete CRUD operations
-- **Tech:** Node.js, Express, MongoDB, JWT
-- **Features:** User roles, product management, order processing
+### [E-Commerce Backend](https://github.com/21Ravan12/E-Commerce-Backend-System)  
+Role-based e-commerce API with full CRUD operations
+- **Stack:** Node.js, Express, MongoDB, JWT
+- **Features:** User roles, product management, orders
 - **Status:** 🟢 Production Ready
 
-### **[RealTalk Chat Application](https://github.com/21Ravan12/RealTalk)**
-Real-time messaging platform with multiple chat rooms
-- **Tech:** React, Socket.io, Node.js
-- **Features:** Real-time messaging, room management, user presence
+### [Real-Time Chat App](https://github.com/21Ravan12/Real-Time-Chat-Application)
+Real-time messaging platform with chat rooms
+- **Stack:** React, Socket.io, Node.js
+- **Features:** Real-time messaging, rooms, user presence
 - **Status:** 🟡 In Development
+
+### [Freelance Marketplace](https://github.com/21Ravan12/Freelance-Marketplace)
+Full-stack platform connecting freelancers with clients
+- **Stack:** React, Node.js, PostgreSQL, JWT
+- **Features:** Project bidding, real-time messaging, payments
+- **Status:** 🟢 Production Ready
 
 ---
 
