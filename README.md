@@ -69,26 +69,26 @@ I'm an 18-year-old **Full-Stack Developer** passionate about building modern web
 
 ---
 
-## 💼 **Featured Projects**
+## 💼 Featured Projects
 
 ### [E-Commerce Backend](https://github.com/21Ravan12/E-Commerce-Backend-System)  
-Role-based e-commerce API with full CRUD operations
-- **Stack:** Node.js, Express, MongoDB, JWT
-- **Features:** User roles, product management, orders
+Complete role-based e-commerce API with full CRUD operations
+- **Tech:** Node.js · Express · MongoDB · JWT
+- **Features:** Multi-user roles, product management, order system
 - **Status:** 🟢 Production Ready
 
-### [Real-Time Chat App](https://github.com/21Ravan12/Real-Time-Chat-Application)
-Real-time messaging platform with chat rooms
-- **Stack:** React, Socket.io, Node.js
-- **Features:** Real-time messaging, rooms, user presence
-- **Status:** 🟡 In Development
+### [Real-Time Chat App](https://github.com/21Ravan12/Real-Time-Chat-Application)  
+Live messaging platform with dynamic chat rooms
+- **Tech:** React · Socket.io · Node.js 
+- **Features:** Real-time messaging, room management, online status
+- **Status:** 🟢 Production Ready
 
 ### [Freelance Marketplace](https://github.com/21Ravan12/Freelance-Marketplace)
 Full-stack platform connecting freelancers with clients
-- **Stack:** React, Node.js, PostgreSQL, JWT
-- **Features:** Project bidding, real-time messaging, payments
-- **Status:** 🟢 Production Ready
-
+- **Tech:** React · Node.js · PostgreSQL · JWT Auth
+- **Features:** Project bidding, messaging system, payment integration
+- **Status:** 🟡 In Development
+  
 ---
 
  
