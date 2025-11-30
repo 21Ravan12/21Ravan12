@@ -94,8 +94,8 @@ Full-stack platform connecting freelancers with clients
 ## 📈 GitHub Analytics
 
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=21Ravan12&show_icons=true&theme=radical&hide_border=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=21Ravan12&layout=compact&theme=radical&hide_border=true&langs_count=6)
+  <img height="180" src="https://github-readme-stats-godkingjay.vercel.app/api?username=21Ravan12&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=21Ravan12&layout=compact&theme=radical&hide_border=true&langs_count=6" />
 </p>
 
 ---
