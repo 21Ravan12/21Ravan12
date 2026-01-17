@@ -30,27 +30,29 @@
 
 ## 🚀 **About Me**
 
-I'm an 18-year-old **Full-Stack Developer** passionate about building modern web applications. I enjoy learning how things work and implementing them in my projects.
+I'm Ravan, an 18-year-old **Full-Stack Developer** passionate about building complete web applications. I focus on writing clean code and implementing best practices.
 
-**Recently I've been working on:**
-- Real-time applications with WebSockets
-- Setting up monitoring tools to understand application performance
-- Implementing better debugging and logging practices
-- Building complete applications from frontend to backend
+**What I've Built & Learned:**
+- Real-time applications with WebSockets and monitoring
+- Full testing suites with Jest, React Testing Library, and Cypress
+- Application monitoring with Prometheus, Grafana, and Sentry
+- Production-ready health check systems
+- Complete applications from design to deployment
 
 ---
 
 ## 🛠 **Technical Stack**
 
-### **Frontend**
+### **Frontend Development**
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" title="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" title="Next.js">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Tailwind CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript">
 </div>
 
-### **Backend**  
+### **Backend Development**  
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express.js">
@@ -59,19 +61,22 @@ I'm an 18-year-old **Full-Stack Developer** passionate about building modern web
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" title="Redis">
 </div>
 
-### **Tools I Use**
+### **Testing & Quality**
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Docker">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" title="Vercel">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" title="Jest">
+  <img src="https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" title="React Testing Library">
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" title="Cypress">
+  <img src="https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=supertest&logoColor=white" title="Supertest">
 </div>
 
-### **Recently Added to My Toolkit**
+### **DevOps & Monitoring**
 <div align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Docker">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" title="Prometheus">
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" title="Grafana">
   <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" title="Sentry">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" title="Vercel">
 </div>
 
 ---
@@ -79,48 +84,74 @@ I'm an 18-year-old **Full-Stack Developer** passionate about building modern web
 ## 💼 **My Projects**
 
 ### [Real-Time Chat Application](https://github.com/21Ravan12/Real-Time-Chat-Application)  
-A chat app I built to learn real-time communication and application monitoring.
+**Complete chat platform with monitoring and testing**
+
+**What I Built:**
+- Real-time messaging with Socket.io and room management
+- User authentication, friend system, online status
+- **Testing:** Jest unit tests, Cypress e2e tests, 80%+ coverage
+- **Monitoring:** Prometheus + Grafana for metrics, Sentry for errors
+- **Health Checks:** Readiness/liveness endpoints, structured logging
+- **Performance:** Custom metrics dashboard, Redis caching
+
+**Tech:** React, Node.js, Socket.io, MongoDB, Redis, Jest, Cypress, Prometheus, Grafana, Sentry  
+**Status:** Complete with full testing and monitoring
+
+### [E-Commerce Backend System](https://github.com/21Ravan12/E-Commerce-Backend-System)  
+**Production-ready e-commerce API**
 
 **Features:**
-- Real-time messaging with Socket.io
-- User authentication and online status
-- Dynamic chat rooms and friend system
+- Complete CRUD operations with JWT authentication
+- Role-based access control (admin/user)
+- File upload system with image processing
+- **Testing:** Full Jest test suite for all endpoints
+- **Quality:** 80%+ test coverage, input validation
 
-**What I learned:**
-- How to monitor application performance with Prometheus
-- Setting up dashboards in Grafana to visualize metrics
-- Using Sentry for error tracking
-- Implementing structured logging for debugging
-- Creating health check endpoints
-
-**Tech:** React, Node.js, Socket.io, MongoDB, Redis, Prometheus, Grafana, Sentry  
-**Status:** Working and learning from it
-
-### [E-Commerce Backend](https://github.com/21Ravan12/E-Commerce-Backend-System)  
-Complete e-commerce API with role-based access.
-
-**Includes:**
-- Product and order management
-- User authentication with JWT
-- File upload system
-
-**Tech:** Node.js, Express, MongoDB, JWT  
-**Status:** Complete
+**Tech:** Node.js, Express, MongoDB, JWT, Jest, Supertest  
+**Status:** Complete and fully tested
 
 ### [Freelance Marketplace](https://github.com/21Ravan12/Freelance-Marketplace)
-Platform connecting freelancers with clients.
+**Full-stack platform for freelancers and clients**
 
-**Current features:**
-- Project bidding system
-- User messaging
-- PostgreSQL database
+**Current Implementation:**
+- Project bidding and proposal system
+- Real-time messaging between users
+- PostgreSQL database with complex relationships
+- **Frontend Testing:** React Testing Library components
+- **Backend Testing:** Jest API tests
 
-**Tech:** React, Node.js, PostgreSQL  
-**Status:** In development
-  
+**Tech:** React, Node.js, PostgreSQL, Jest, React Testing Library  
+**Status:** In development with testing
+
 ---
 
-## 📈 **GitHub Stats**
+## 🏗️ **Technical Implementation Details**
+
+### **Testing Strategy Implemented**
+- **Backend Testing:** Jest + Supertest for API endpoint testing
+- **Frontend Testing:** React Testing Library for component testing
+- **E2E Testing:** Cypress for complete user flow testing
+- **Test Coverage:** Achieved 80%+ coverage across projects
+- **Integration Testing:** Database and external service mocking
+
+### **Monitoring & Observability Setup**
+- **Metrics Collection:** Prometheus for custom application metrics
+- **Dashboarding:** Grafana for real-time performance visualization
+- **Error Tracking:** Sentry integration with context capture
+- **Health Monitoring:** Kubernetes-compatible health endpoints
+- **Structured Logging:** Winston with JSON formatting and rotation
+- **Performance Tracking:** Custom metrics for API response times, active connections
+
+### **Development Practices**
+- **Code Quality:** ESLint, Prettier for consistent code style
+- **Git Workflow:** Feature branches, pull requests, code reviews
+- **Documentation:** API documentation with examples
+- **Error Handling:** Structured error responses and logging
+- **Security:** Input validation, JWT authentication, secure headers
+
+---
+
+## 📈 **GitHub Analytics**
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=21Ravan12&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Development Activity" />
@@ -133,12 +164,19 @@ Platform connecting freelancers with clients.
 
 ---
 
-## 🎯 **What I'm Doing Now**
+## 🎯 **Current Focus**
 
-- Working on my projects and learning from them
-- Exploring how to make applications more reliable and easier to debug
-- Looking for opportunities to collaborate on interesting projects
-- Continuing to learn and improve my skills
+- **Building Production-Ready Applications:** With complete testing and monitoring
+- **System Design:** Learning scalable architecture patterns
+- **Performance Optimization:** Focusing on application performance and monitoring
+- **Open Source:** Contributing to projects and building public portfolio
+- **Continuous Learning:** Staying updated with latest technologies and best practices
+
+**Looking For:**
+- Opportunities to work on challenging projects
+- Collaboration on meaningful technical problems
+- Environments where I can continue learning and growing
+- Junior/Entry-level positions with mentorship opportunities
 
 ---
 
@@ -146,13 +184,16 @@ Platform connecting freelancers with clients.
 
 <div align="center">
   <a href="mailto:asgarovravan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/ravan-asgarov-45ba96380/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://portfolio-gamma-neon-92.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://github.com/21Ravan12">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
 
