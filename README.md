@@ -30,36 +30,36 @@
 
 ## 🚀 **About Me**
 
-I'm an 18-year-old **Full-Stack Developer** passionate about building modern web applications. I focus on creating efficient, user-friendly solutions using the JavaScript ecosystem.
+I'm an 18-year-old **Full-Stack Developer** passionate about building modern web applications. I enjoy learning how things work and implementing them in my projects.
 
-**What I bring to the table:**
-- ✅ 1.5 years of intensive self-taught development experience
-- ✅ Ability to build complete applications from design to deployment
-- ✅ Strong problem-solving skills and quick learning ability
-- ✅ Experience with both frontend and backend development
+**Recently I've been working on:**
+- Real-time applications with WebSockets
+- Setting up monitoring tools to understand application performance
+- Implementing better debugging and logging practices
+- Building complete applications from frontend to backend
 
 ---
 
-## 🛠 **Core Technical Stack**
+## 🛠 **Technical Stack**
 
-### **Frontend Development**
+### **Frontend**
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" title="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" title="Next.js">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Tailwind CSS">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript">
 </div>
 
-### **Backend Development**  
+### **Backend**  
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express.js">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" title="Redis">
 </div>
 
-### **Tools & Deployment**
+### **Tools I Use**
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Docker">
@@ -67,31 +67,60 @@ I'm an 18-year-old **Full-Stack Developer** passionate about building modern web
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman">
 </div>
 
+### **Recently Added to My Toolkit**
+<div align="center">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" title="Prometheus">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" title="Grafana">
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" title="Sentry">
+</div>
+
 ---
 
-## 💼 Featured Projects
+## 💼 **My Projects**
+
+### [Real-Time Chat Application](https://github.com/21Ravan12/Real-Time-Chat-Application)  
+A chat app I built to learn real-time communication and application monitoring.
+
+**Features:**
+- Real-time messaging with Socket.io
+- User authentication and online status
+- Dynamic chat rooms and friend system
+
+**What I learned:**
+- How to monitor application performance with Prometheus
+- Setting up dashboards in Grafana to visualize metrics
+- Using Sentry for error tracking
+- Implementing structured logging for debugging
+- Creating health check endpoints
+
+**Tech:** React, Node.js, Socket.io, MongoDB, Redis, Prometheus, Grafana, Sentry  
+**Status:** Working and learning from it
 
 ### [E-Commerce Backend](https://github.com/21Ravan12/E-Commerce-Backend-System)  
-Complete role-based e-commerce API with full CRUD operations
-- **Tech:** Node.js · Express · MongoDB · JWT
-- **Features:** Multi-user roles, product management, order system
-- **Status:** 🟢 Production Ready
+Complete e-commerce API with role-based access.
 
-### [Real-Time Chat App](https://github.com/21Ravan12/Real-Time-Chat-Application)  
-Live messaging platform with dynamic chat rooms
-- **Tech:** React · Socket.io · Node.js 
-- **Features:** Real-time messaging, room management, online status
-- **Status:** 🟢 Production Ready
+**Includes:**
+- Product and order management
+- User authentication with JWT
+- File upload system
+
+**Tech:** Node.js, Express, MongoDB, JWT  
+**Status:** Complete
 
 ### [Freelance Marketplace](https://github.com/21Ravan12/Freelance-Marketplace)
-Full-stack platform connecting freelancers with clients
-- **Tech:** React · Node.js · PostgreSQL · JWT Auth
-- **Features:** Project bidding, messaging system, payment integration
-- **Status:** 🟡 In Development
+Platform connecting freelancers with clients.
+
+**Current features:**
+- Project bidding system
+- User messaging
+- PostgreSQL database
+
+**Tech:** React, Node.js, PostgreSQL  
+**Status:** In development
   
 ---
 
-## 📈 GitHub Analytics
+## 📈 **GitHub Stats**
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=21Ravan12&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Development Activity" />
@@ -104,21 +133,20 @@ Full-stack platform connecting freelancers with clients
 
 ---
 
-## 🎯 **Current Focus**
+## 🎯 **What I'm Doing Now**
 
-- 🔭 Building production-ready full-stack applications
-- 🌱 Learning advanced TypeScript and system design
-- 👯 Looking to collaborate on open-source projects
-- 🤝 Seeking junior developer opportunities
-- 🚀 Available for freelance projects
+- Working on my projects and learning from them
+- Exploring how to make applications more reliable and easier to debug
+- Looking for opportunities to collaborate on interesting projects
+- Continuing to learn and improve my skills
 
 ---
 
-## 📫 **Let's Connect!**
+## 📫 **Connect With Me**
 
 <div align="center">
   <a href="mailto:asgarovravan@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/ravan-asgarov-45ba96380/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
