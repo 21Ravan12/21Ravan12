@@ -34,7 +34,6 @@ I'm an 18-year-old **Full-Stack Developer** passionate about building modern web
 
 **Technical Philosophy:**
 - 🏗️ **Architecture First:** Clean, maintainable code with separation of concerns
-- 🧪 **Testing as Standard:** 80%+ test coverage for reliable applications  
 - 📊 **Observability Built-in:** Monitoring, logging, and error tracking from day one
 - 🚀 **Production Mindset:** Systems designed for real-world deployment
 
