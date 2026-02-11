@@ -191,8 +191,5 @@ A **Junior/Mid-level Developer** role where I can:
 </div>
 
 <div align="center">
-  <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
-  <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontSize=40" alt="Footer" />
 </div>
