@@ -157,13 +157,16 @@ I focus on writing clean, testable code and understanding how applications behav
 
 ---
 
-## 🎯 **Looking For**
+## 🎯 **Open To Opportunities**
 
-A **Junior/Mid-level Developer** role where I can:
-- Build and deploy real features
-- Learn from experienced engineers
-- Contribute to meaningful projects
-- Grow my skills while adding value
+Looking for a **developer role** where I can:
+- 🚀 Build and ship features that real people use
+- 📚 Work with experienced engineers and learn continuously
+- 🏗️ Contribute to meaningful projects from day one
+- 💡 Turn coffee into code and problems into solutions
+
+**Currently open to:** Junior & Entry-level positions  
+**Ready to:** Prove that age ≠ ability
 
 ---
 
