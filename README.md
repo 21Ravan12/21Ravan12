@@ -84,36 +84,59 @@ I focus on writing clean, testable code and understanding how applications behav
 
 ---
 
+**PROJELER PARTINI GÜNCELLEDİM:** 🎯
+
 ## 🏗 **Projects I've Built**
 
 ### **[Real-Time Chat Application](https://github.com/21Ravan12/Real-Time-Chat-Application)**
-**A production-deployed messaging platform**
+**Production-deployed messaging platform with 15,000+ LOC**
 ```
-✅ 15,000+ lines of code
-✅ Deployed to Railway + Vercel
-✅ MongoDB Atlas, Redis Upstash, Cloudinary, SendGrid
+✅ Live demo: realtalk.vercel.app
+✅ Real-time messaging with Socket.io + Redis adapter
+✅ JWT auth with refresh token rotation
+✅ File uploads via Cloudinary
+✅ Email verification with SendGrid
 ✅ Prometheus + Grafana monitoring
-✅ Jest + Cypress testing
+✅ Jest + Cypress testing suite
 ✅ Docker containerization
+✅ Deployed on Railway + Vercel
+✅ MongoDB Atlas + Redis Upstash
 ```
-**🔗 Live Demo:** [realtalk.vercel.app](https://realtalk.vercel.app)
 
-### **[E-Commerce Backend](https://github.com/21Ravan12/E-Commerce-Backend-System)**
-**REST API with role-based access**
+**[🔗 GitHub Repo](https://github.com/21Ravan12/Real-Time-Chat-Application) | [🚀 Live Demo](https://realtalk.vercel.app)**
+
+---
+
+### **[E-Commerce Backend System](https://github.com/21Ravan12/E-Commerce-Backend-System)**
+**Clean architecture API with Docker orchestration**
 ```
-✅ JWT authentication
+✅ 3-service Docker setup (Node.js + MongoDB + Redis)
+✅ Role-based access control (Admin, Seller, Customer)
+✅ JWT authentication & authorization
 ✅ Product & order management
-✅ MongoDB with Mongoose
-✅ 90%+ test coverage
+✅ Payment integration ready (Stripe/PayPal)
+✅ Redis caching implementation
+✅ 50+ documented API endpoints
+✅ 600+ files, clean architecture pattern
+✅ Health checks & structured logging
+✅ Volume-persistent MongoDB
 ```
 
-### **[Freelance Marketplace](https://github.com/21Ravan12/Freelance-Marketplace)** *(in development)*
-**Platform for freelancers and clients**
+**[🔗 GitHub Repo](https://github.com/21Ravan12/E-Commerce-Backend-System)**
+
+---
+
+### **[Freelance Marketplace](https://github.com/21Ravan12/Freelance-Marketplace)** *(In Development)*
+**Platform connecting freelancers with clients**
 ```
 ✅ React + Node.js + PostgreSQL
-✅ Real-time messaging
-✅ Project bidding system
+✅ Real-time messaging system
+✅ Project bidding and management
+✅ User profiles and portfolios
+✅ In progress - Q1 2026
 ```
+
+**[🔗 GitHub Repo](https://github.com/21Ravan12/Freelance-Marketplace)**
 
 ---
 
