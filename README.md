@@ -103,7 +103,7 @@ I focus on writing clean, testable code and understanding how applications behav
 ✅ MongoDB Atlas + Redis Upstash
 ```
 
-**[🔗 GitHub Repo](https://github.com/21Ravan12/Real-Time-Chat-Application) | [🚀 Live Demo](https://realtalk.vercel.app)**
+**[🔗 GitHub Repo](https://github.com/21Ravan12/Real-Time-Chat-Application) | [🚀 Live Demo](https://real-time-chat-application-tau-seven.vercel.app)**
 
 ---
 
