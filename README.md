@@ -7,7 +7,7 @@
   </h1>
   
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7E3AF2&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Production+Monitoring+%26+Observability;Clean+Code+%26+Testing" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7E3AF2&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Socket.io+%7C+Redis+%7C+MongoDB+%7C+PostgreSQL;Prometheus+%7C+Grafana+%7C+Docker+%7C+Cloud;Real-Time+%7C+Testing+%7C+Production+Deployment" alt="Typing Animation" />
   </div>
 
 <div>
@@ -30,19 +30,20 @@
 
 ## 🚀 **About Me**
 
-I'm an 18-year-old **Full-Stack Developer** passionate about building modern web applications. I focus on creating **well-structured, maintainable systems** with attention to testing and real-world deployment considerations.
+I'm an 18-year-old developer who learns best by **building real things**.  
+I focus on writing clean, testable code and understanding how applications behave in production.
 
-**Development Approach:**
-- 🏗️ **Clean Architecture Focus:** Building maintainable systems with clear separation of concerns
-- 🧪 **Testing from Day One:** Implementing test suites early in development
-- 📊 **Observability Awareness:** Integrating monitoring and logging as important features
-- 🚀 **Production Thinking:** Designing with deployment and maintenance in mind
+**What I Care About:**
+- 🏗️ **Clean Code:** Well-structured, maintainable systems
+- 🧪 **Testing:** Catching bugs before users do
+- 📊 **Observability:** Knowing what my app is doing
+- 🚀 **Deployment:** Shipping features people can actually use
 
 ---
 
-## 🛠 **Technical Stack & Expertise**
+## 🛠 **Technical Stack**
 
-### **Frontend Development**
+### **Frontend**
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" title="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" title="Next.js">
@@ -51,111 +52,108 @@ I'm an 18-year-old **Full-Stack Developer** passionate about building modern web
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript">
 </div>
 
-### **Backend Development**  
+### **Backend**
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express.js">
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" title="Socket.io">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" title="Redis">
 </div>
 
-### **Monitoring & Observability**
+### **Monitoring & DevOps**
 <div align="center">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" title="Prometheus">
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" title="Grafana">
   <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" title="Sentry">
-  <img src="https://img.shields.io/badge/Winston-000000?style=for-the-badge&logo=winston&logoColor=white" title="Winston">
-</div>
-
-### **Testing & DevOps**
-<div align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Docker">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" title="Jest">
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" title="Cypress">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman">
+</div>
+
+### **Cloud & Deployment**
+<div align="center">
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" title="Railway">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" title="Vercel">
+  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB Atlas">
+  <img src="https://img.shields.io/badge/Upstash-00C7B7?style=for-the-badge&logo=redis&logoColor=white" title="Upstash Redis">
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" title="Cloudinary">
+  <img src="https://img.shields.io/badge/SendGrid-00A1E0?style=for-the-badge&logo=sendgrid&logoColor=white" title="SendGrid">
 </div>
 
 ---
 
-## 🏆 **Technical Projects & Experience**
+## 🏗 **Projects I've Built**
 
-### **Production-Grade Application Development**
-I build complete applications with attention to real-world considerations:
+### **[Real-Time Chat Application](https://github.com/21Ravan12/Real-Time-Chat-Application)**
+**A production-deployed messaging platform**
+```
+✅ 15,000+ lines of code
+✅ Deployed to Railway + Vercel
+✅ MongoDB Atlas, Redis Upstash, Cloudinary, SendGrid
+✅ Prometheus + Grafana monitoring
+✅ Jest + Cypress testing
+✅ Docker containerization
+```
+**🔗 Live Demo:** [realtalk.vercel.app](https://realtalk.vercel.app)
 
-#### **📊 Monitoring & Observability Implementation**
-- **Production Monitoring:** Prometheus + Grafana for metrics and dashboards
-- **Error Tracking:** Sentry integration for debugging and performance monitoring
-- **Structured Logging:** Winston with JSON formatting and log management
-- **Health Checks:** Implementation of readiness/liveness endpoints
+### **[E-Commerce Backend](https://github.com/21Ravan12/E-Commerce-Backend-System)**
+**REST API with role-based access**
+```
+✅ JWT authentication
+✅ Product & order management
+✅ MongoDB with Mongoose
+✅ 90%+ test coverage
+```
 
-#### **🧪 Quality & Testing Focus**
-- **Test Coverage:** Maintaining high test coverage with Jest + Supertest
-- **E2E Testing:** Cypress for complete user flow validation
-- **CI/CD Setup:** GitHub Actions for automated testing workflows
+### **[Freelance Marketplace](https://github.com/21Ravan12/Freelance-Marketplace)** *(in development)*
+**Platform for freelancers and clients**
+```
+✅ React + Node.js + PostgreSQL
+✅ Real-time messaging
+✅ Project bidding system
+```
 
-### **Featured Projects:**
-
-#### **[Real-Time Chat Application](https://github.com/21Ravan12/Real-Time-Chat-Application)**
-**Full-stack messaging platform with comprehensive monitoring**
-- **Tech Stack:** React · Socket.io · Node.js · MongoDB · Redis
-- **Key Features:** Real-time messaging, production monitoring, structured logging
-- **Scale:** 15,000+ lines of code with modular architecture
-- **Status:** 🟢 **Built with production standards in mind**
-
-#### **[E-Commerce Backend System](https://github.com/21Ravan12/E-Commerce-Backend-System)**  
-**Role-based e-commerce API with complete functionality**
-- **Tech Stack:** Node.js · Express · MongoDB · JWT
-- **Features:** Multi-user roles, product management, order processing
-- **Status:** 🟢 **Complete and functional**
-
-#### **[Freelance Marketplace](https://github.com/21Ravan12/Freelance-Marketplace)**
-**Platform connecting freelancers with clients**
-- **Tech Stack:** React · Node.js · PostgreSQL
-- **Features:** Project bidding, messaging system, user management
-- **Status:** 🟡 **In Development**
-  
 ---
 
-## 📈 **Development Activity**
+## 📚 **What I'm Learning**
+
+**Currently:**
+- System design & architecture patterns
+- Microservices with Docker
+- Advanced TypeScript
+- Cloud deployment strategies
+
+**Recently Learned (by doing):**
+- 🎯 Production debugging (timeouts, CORS, environment variables)
+- 📊 Setting up monitoring dashboards
+- 🐳 Containerizing Node.js applications
+- ☁️ Integrating 5+ cloud services in one project
+- 📨 Email service migration (Gmail → Brevo → Resend → SendGrid)
+
+---
+
+## 🎯 **Looking For**
+
+A **Junior/Mid-level Developer** role where I can:
+- Build and deploy real features
+- Learn from experienced engineers
+- Contribute to meaningful projects
+- Grow my skills while adding value
+
+---
+
+## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=21Ravan12&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=21Ravan12&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=21Ravan12&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 ---
 
-## 🎯 **Current Focus & Learning**
-
-- 🔭 **Building robust applications** with proper testing and monitoring
-- 📊 **Deepening knowledge** in backend architecture and system design
-- 🐛 **Improving debugging skills** with observability tools
-- 🧪 **Exploring testing strategies** for complex applications
-- 🌐 **Learning cloud platforms** and deployment best practices
-- 📚 **Continuously studying** system design principles and best practices
-- 🔍 **Improving** my optimization and performance tuning skills
-- 🤔 **Exploring** the balance between over-engineering and practical solutions
-
----
-
-## 📚 **Learning Journey**
-
-**Currently Focusing On:**
-- Advanced TypeScript patterns and type safety
-- Microservices architecture concepts
-- Container orchestration fundamentals
-- System design interview preparation
-
-**Short-term Goals:**
-- Contribute to meaningful open-source projects
-- Build a microservices-based application
-- Improve algorithm and data structure knowledge
-- Explore cloud certification paths
-
----
-
-## 📫 **Get in Touch**
+## 📫 **Let's Connect**
 
 <div align="center">
   <a href="mailto:asgarovravan@gmail.com">
@@ -167,11 +165,11 @@ I build complete applications with attention to real-world considerations:
   <a href="https://portfolio-gamma-neon-92.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://github.com/21Ravan12?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
-  </a>
 </div>
 
 <div align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontSize=40" alt="Footer" />
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontSize=40" alt="Footer" />
 </div>
