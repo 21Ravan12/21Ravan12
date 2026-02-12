@@ -125,14 +125,16 @@ I'm an 18-year-old developer who learns best by **building real things**. I focu
 
 ---
 
-### **[Freelance Marketplace](https://github.com/21Ravan12/Freelance-Marketplace)** *(In Development)*
-**Platform connecting freelancers with clients**
+### **[Freelance Marketplace](https://github.com/21Ravan12/Freelance-Marketplace)**
+**Full-stack freelance platform connecting employers and freelancers with real-time communication**
+
 ```
 ✅ React + Node.js + PostgreSQL
-✅ Real-time messaging system
-✅ Project bidding and management
-✅ User profiles and portfolios
-✅ In progress - Q1 2026
+✅ Real-time messaging with read receipts & unread tracking
+✅ Project bidding and management system
+✅ User profiles, portfolios, and skill verification
+✅ JWT authentication with role-based dashboards
+✅ RESTful API with 25+ documented endpoints
 ```
 
 **[🔗 GitHub Repo](https://github.com/21Ravan12/Freelance-Marketplace)**
