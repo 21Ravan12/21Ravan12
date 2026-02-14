@@ -167,7 +167,6 @@ Looking for a **developer role** where I can:
 - 💡 Turn coffee into code and problems into solutions
 
 **Currently open to:** Junior & Entry-level positions  
-**Ready to:** Prove that age ≠ ability
 
 ---
 
