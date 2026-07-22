@@ -83,8 +83,6 @@ I'm an software developer who learns best by **building real things**. I focus o
 
 ---
 
-**PROJELER PARTINI GÜNCELLEDİM:** 🎯
-
 ## 🏗 **Projects I've Built**
 
 ### **[Real-Time Chat Application](https://github.com/21Ravan12/Real-Time-Chat-Application)**
