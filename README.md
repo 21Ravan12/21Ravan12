@@ -30,7 +30,7 @@
 
 ## 🚀 **About Me**
 
-I'm an 18-year-old developer who learns best by **building real things**. I focus on writing clean, testable code and understanding how applications behave in production.
+I'm an software developer who learns best by **building real things**. I focus on writing clean, testable code and understanding how applications behave in production.
 
 **What I Care About:**
 - 🏗️ **Clean Code:** Well-structured, maintainable systems
