@@ -72,7 +72,7 @@ I'm a software developer who learns best by **building real things**. I focus on
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" title="Jest">
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" title="Cypress">
   <img src="https://img.shields.io/badge/Winston-77A8D4?style=for-the-badge&logo=winston&logoColor=white" title="Winston">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">            <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman">
 </div>
 
 ### **Cloud & Deployment**
