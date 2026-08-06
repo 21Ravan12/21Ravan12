@@ -104,8 +104,7 @@ I'm a software developer who learns best by **building real things**. I focus on
 ✅ MongoDB Atlas + Redis Upstash
 ```
 
-**[🔗 GitHub Repo](https://github.com/21Ravan12/Real-Time-Chat-Application) | [🚀 Live Demo](https://real-time-chat-application-tau-seven.vercel.app)**
-
+**[🔗 GitHub Repo](https://github.com/21Ravan12/Real-Time-Chat-Application) | It is not currently live
 ---
 
 ### **[E-Commerce Backend System](https://github.com/21Ravan12/E-Commerce-Backend-System)**
