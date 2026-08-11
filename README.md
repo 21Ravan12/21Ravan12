@@ -3,11 +3,11 @@
   
   <h1> 
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
-    Full-Stack JavaScript Developer
+    Full-Stack Developer
   </h1>
   
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7E3AF2&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Socket.io+%7C+Redis+%7C+MongoDB+%7C+PostgreSQL;Prometheus+%7C+Grafana+%7C+Docker+%7C+Cloud;Real-Time+%7C+Testing+%7C+Production+Deployment" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7E3AF2&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Java+%7C+Spring+Boot+%7C+Python+%7C+Flask;Socket.io+%7C+Redis+%7C+MongoDB+%7C+PostgreSQL;Prometheus+%7C+Grafana+%7C+Docker+%7C+Cloud" alt="Typing Animation" />
   </div>
 
 <div>
@@ -37,6 +37,7 @@ I'm a software developer who learns best by **building real things**. I focus on
 - 🧪 **Testing:** Catching bugs before users do
 - 📊 **Observability:** Knowing what my app is doing
 - 🚀 **Deployment:** Shipping features people can actually use
+- 🌍 **Versatility:** Building with Node.js, Java, and Python — choosing the right tool for the job.
 
 ---
 
@@ -47,6 +48,10 @@ I'm a software developer who learns best by **building real things**. I focus on
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express.js">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" title="NestJS">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" title="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" title="Spring Boot">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" title="Flask">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" title="Prisma">
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" title="Socket.io">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL">
@@ -72,7 +77,8 @@ I'm a software developer who learns best by **building real things**. I focus on
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" title="Jest">
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" title="Cypress">
   <img src="https://img.shields.io/badge/Winston-77A8D4?style=for-the-badge&logo=winston&logoColor=white" title="Winston">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">            <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">            
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman">
 </div>
 
 ### **Cloud & Deployment**
@@ -92,7 +98,6 @@ I'm a software developer who learns best by **building real things**. I focus on
 ### **[Real-Time Chat Application](https://github.com/21Ravan12/Real-Time-Chat-Application)**
 **Production-deployed messaging platform with 15,000+ LOC**
 ```
-✅ Live demo: realtalk.vercel.app
 ✅ Real-time messaging with Socket.io + Redis adapter
 ✅ JWT auth with refresh token rotation
 ✅ File uploads via Cloudinary
@@ -101,10 +106,9 @@ I'm a software developer who learns best by **building real things**. I focus on
 ✅ Jest + Cypress testing suite
 ✅ Docker containerization
 ✅ Deployed on Railway + Vercel
-✅ MongoDB Atlas + Redis Upstash
 ```
+**[🔗 GitHub Repo](https://github.com/21Ravan12/Real-Time-Chat-Application)** | It is not currently live
 
-**[🔗 GitHub Repo](https://github.com/21Ravan12/Real-Time-Chat-Application) | It is not currently live
 ---
 
 ### **[E-Commerce Backend System](https://github.com/21Ravan12/E-Commerce-Backend-System)**
@@ -113,32 +117,37 @@ I'm a software developer who learns best by **building real things**. I focus on
 ✅ 3-service Docker setup (Node.js + MongoDB + Redis)
 ✅ Role-based access control (Admin, Seller, Customer)
 ✅ JWT authentication & authorization
-✅ Product & order management
-✅ Payment integration ready (Stripe/PayPal)
-✅ Redis caching implementation
 ✅ 50+ documented API endpoints
-✅ 600+ files, clean architecture pattern
-✅ Health checks & structured logging
-✅ Volume-persistent MongoDB
+✅ Redis caching & health checks
 ```
-
 **[🔗 GitHub Repo](https://github.com/21Ravan12/E-Commerce-Backend-System)**
 
 ---
 
 ### **[Freelance Marketplace](https://github.com/21Ravan12/Freelance-Marketplace)**
-**Full-stack freelance platform connecting employers and freelancers with real-time communication**
-
+**Full-stack platform with real-time communication**
 ```
 ✅ React + Node.js + PostgreSQL
-✅ Real-time messaging with read receipts & unread tracking
-✅ Project bidding and management system
-✅ User profiles, portfolios, and skill verification
+✅ Real-time messaging with read receipts
 ✅ JWT authentication with role-based dashboards
-✅ RESTful API with 25+ documented endpoints
+✅ 25+ documented REST endpoints
 ```
-
 **[🔗 GitHub Repo](https://github.com/21Ravan12/Freelance-Marketplace)**
+
+---
+
+### **[Online Checkers v2.1 (Java + Spring Boot)](https://github.com/21Ravan12/Online-Checkers-v2.1)**
+**Multiplayer checkers game with real-time sync and offline mode**
+```
+✅ Java + Spring Boot REST API
+✅ JWT authentication with email verification
+✅ Real-time game sync with WebSockets (Node.js)
+✅ PostgreSQL for persistent game history
+✅ Responsive frontend (vanilla JS, HTML, CSS)
+✅ Full game logic (turn-based, win/draw detection)
+✅ Offline mode with move history
+```
+**[🔗 GitHub Repo](https://github.com/21Ravan12/Online-Checkers-v2.1)**
 
 ---
 
